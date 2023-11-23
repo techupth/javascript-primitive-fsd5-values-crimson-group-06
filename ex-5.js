@@ -1,3 +1,5 @@
 //Exercise #5: Shopping and Discount
 
-// Start coding here
+let allProductPrice = 27000;
+let discount = allProductPrice * (25 / 100);
+let lastPrice = allProductPrice - discount;
